@@ -22,5 +22,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/glook_logo" />
+        app:srcCompat="@drawable/glook_logo"
+        tools:ignore="VectorDrawableCompat" />
 </android.support.constraint.ConstraintLayout>
